@@ -1,3 +1,3 @@
 # 110-Lab1
-Kevin Yu's User Page\n
-Favorite programming Language: Java
+Kevin Yu's User Page
+-Favorite programming Language: Java
