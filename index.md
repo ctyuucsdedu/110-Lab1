@@ -15,8 +15,8 @@ Mandarin
 where I learned Japanese in community college before transfering. At here, I would be happy to introduce some `Hong Kong cuisine`. Here is a link to an article of some famous [Hong Kong Cuisine](https://www.chinahighlights.com/hong-kong/food-restaurant.htm). Also, please check [this list](cuisine.txt) if you are interested in more food recommand by me! <br/>
 
 ### Places I have been
-I have been to many place such as Kyoto, Japan. Here is an image of the `Fushimi Inari Taisha` temple in Kyoto: /
-![Kyoto](https://www.japan-guide.com/g18/3915_top.jpg) /
+I have been to many place such as Kyoto, Japan. Here is an image of the `Fushimi Inari Taisha` temple in Kyoto: <br/>
+![Kyoto](https://www.japan-guide.com/g18/3915_top.jpg) <br/>
 I have also been to 
 - Osaka
 - Kobe
