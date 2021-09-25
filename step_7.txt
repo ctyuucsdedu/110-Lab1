@@ -1,0 +1,5 @@
+I forgot to screenshot step 7 but it was:
+
+$git push --all
+
+Thank you.
