@@ -21,7 +21,7 @@ I have also been to
 - Osaka
 - Kobe
 - Uji
-</br>Japan is indeed one of the best place for vacation where the secene and food are amazing! 
+<br/>Japan is indeed one of the best place for vacation where the secene and food are amazing! 
 
 ### Favorite Japanese food
 My favorite food in Japan are
